@@ -1,2 +1,2 @@
-# YimMenu Translations
+# Menu Translations
 
